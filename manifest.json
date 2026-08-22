@@ -14,5 +14,6 @@
   "incompatible": [],
   "experimental": false,
   "permissions": ["engine_internals"],
+  "github": "elfuegotx/Gender_Display",
   "description": "Male/Female symbol at a fixed spot right before the LV in the battle HUD (both layouts) and the summary screen. Also always shows the '<LV>' tile on the summary screen at level 100 (a deliberate deviation from real vanilla, which drops it there). Verified safe under the BATTLE_ART_VOXEL_FORK 3D compat mod via a real joint load test."
 }
